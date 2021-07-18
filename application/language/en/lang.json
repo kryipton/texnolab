@@ -1,0 +1,37 @@
+{
+
+
+  "home": "Home",
+  "about": "About",
+  "services": "Services",
+  "media": "Media",
+  "gallery": "Gallery",
+  "documents": "Documents",
+  "videos": "Videos",
+  "news": "News",
+  "contact": "Contact",
+  "projects": "Projects",
+  "phone": "Phone",
+  "email": "Email",
+  "address": "Our Address",
+  "our_services": "OUR SERVICES",
+  "all_services": "ALL SERVICES",
+  "current_news": "CURRENT NEWS",
+  "all_news": "All News",
+  "promo_video": "VIEW PROMO VIDEO",
+  "year": "Year ",
+  "company": "Company ",
+  "project_name": "Project Name ",
+  "location": "Location ",
+  "all_projects": "All Projects",
+  "contact_details": "Contact Details",
+  "contact_form": "Contact Form",
+  "full_name": "Full Name",
+  "your_email": "Your Email",
+  "your_message": "Your Message",
+  "send": "Send",
+
+  "sub_services" : "Sub Services"
+
+
+}

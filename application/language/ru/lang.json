@@ -1,0 +1,37 @@
+{
+
+
+  "home": "Home",
+  "about": "О НАС",
+  "services": "Услуги",
+  "media": "Медиа",
+  "gallery": "Галерея",
+  "documents": "Документы",
+  "videos": "Видео",
+  "news": "Новости",
+  "all_news": "Все новости",
+  "contact": "Контакт",
+  "projects": "Проекты",
+  "phone": "Телефон",
+  "email": "Э-почта",
+  "address": "Наш адрес",
+  "our_services": "НАШИ УСЛУГИ",
+  "all_services": "ВСЕ УСЛУГИ",
+  "current_news": "ТЕКУЩИЕ НОВОСТИ",
+  "promo_video": "ПОСМОТРЕТЬ ВИДЕО ПРОМО",
+  "year": "Год ",
+  "company": "Компания",
+  "project_name": "Название проекта",
+  "location": "Местоположение ",
+  "all_projects": "Все проекты",
+  "contact_details": "Контактная информация",
+  "contact_form": "Контактная форма",
+  "full_name": "Полное имя",
+  "your_email": "Ваш адрес электронной почты",
+  "your_message": "Ваше сообщение",
+  "send": "Отправить",
+
+  "sub_services" : "Под-услуги"
+
+
+}
